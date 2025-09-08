@@ -79,7 +79,7 @@ A simple **Snake Game** built using **Java** and **Swing/Graphics**. The game al
 ---
 
 ## 📸 Screenshots
-<img width="1201" height="1273" alt="image" src="https://github.com/user-attachments/assets/00c6f487-9729-4b13-ac76-715e6fbe73ed" />
+<img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/00c6f487-9729-4b13-ac76-715e6fbe73ed" />
 
 
 
